@@ -16,7 +16,7 @@ body,html{
 
 .intro{
     text-align: left;
-    padding-left: 18%;
+    padding-left: 100px;
 }
 
 .insicon{
@@ -103,6 +103,30 @@ nav{
     outline: none;
 }
 
+.functions{
+    text-align: center;
+    margin-top: 30px;
+    width: 95%;
+    margin-left: 2.5%;
+}
+
+.di{
+    background-color: #b1040d07;
+    border-radius: 10px;
+    padding: 15px 0;
+    height: 100px;
+}
+
+.aimg{
+    width: 40px;
+    height: 40px;
+}
+.alink{
+    text-decoration: none;
+}
+.scap{
+    color: #b1040e;
+}
 
 @media only screen and (min-width:900px){
     .navbar-collapse{
