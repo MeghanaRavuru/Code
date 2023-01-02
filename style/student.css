@@ -139,5 +139,10 @@ nav{
     .sinfo{
         margin: 0;
     }
+    .intro{
+        text-align: left;
+        padding-left: 40px;
+    }
+    
 }
 
