@@ -150,7 +150,7 @@ body,html{
 
 .event{
     background-color: #889551;
-    height: 180px;
+    height: 170px;
     display: inline-block;
     width: 33%;
     margin-right: 0.3%;
@@ -188,8 +188,8 @@ span{
 
 h3{
     text-align: center;
-    margin-top: 15px;
-    font-size: 25px;
+    margin-top: 10px;
+    font-size: 23px;
 }
 
 .e1{
@@ -227,7 +227,7 @@ h3{
     right: 20px;
     bottom: 20px;
     z-index: 999;
-    
+
 }
 
 .cbtn{
