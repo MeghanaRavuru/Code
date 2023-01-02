@@ -205,7 +205,7 @@ h3{
 }
 .eventblock{
     width: 99%;
-    margin-left: 0.5%;
+    margin-left: 0.3%;
 }
 
 .elink{
@@ -250,12 +250,12 @@ h3{
         text-align: center;
         padding-top: 10px;
         font-size: 20px;
-        border-radius: 3px;
+        border-radius: 1px;
     }
     .event{
         display: block;
-        width: 90%;
-        margin-left: 5%;
+        width: 96%;
+        margin-left: 2.4%;
         margin-top: 5px;
     }
 }

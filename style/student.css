@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.header{
+    text-align: center;
+    margin-top: 10px;
+    color: #b1040e;
+}
+
+.intro{
+    text-align: left;
+    padding-left: 18%;
+}
+
+.insicon{
+    width: 80px;
+    height: 80px;
+    padding-bottom: 5px;
+}
+
+.studenticon{
+    width: 60px;
+    height: 60px;
+}
+
+nav{
+    text-align: center;
+    background-color: #b1040e;
+    position: fixed;
+}
+
+.sh,.sl{
+    display: inline-block;
+    margin-right: 50px;
+    color: #fff;
+    padding-top: 25px;
+    text-decoration: none;
+}
+
+.sicon{
+    padding-top: 5px;
+    text-align: right;
+}
+
+
+.cimg{
+    width: 70px;
+    height: 70px;
+}
+
+.chatbot{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 999;
+
+}
+
+.cbtn{
+    outline: none;
+    border: 0;
+    background-color: #b1d9ff;
+    border-radius: 50%;
+    padding: 9px;
+}
+
+.studentname,.studentid{
+    color: #fff;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 200;
+}
+
+.sinfo{
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.nav-link{
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.fa-bars{
+    color: #fff;
+    font-size: 30px;
+}
+
+.fa-bars:focus{
+    outline: none;
+}
+
+.fa-bars:active{
+    outline: none;
+}
+
+
+@media only screen and (min-width:900px){
+    .navbar-collapse{
+        text-align: center;
+        margin-left: 39%;
+    }
+}
+
+@media only screen and (max-width: 576px){
+    .sinfo{
+        margin: 0;
+    }
+}
+
